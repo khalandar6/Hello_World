@@ -1,3 +1,11 @@
+
+// Welcome to the world of c programming
+
+
+
+
+
+
 #include<stdio.h>
 #include<string.h>
 
